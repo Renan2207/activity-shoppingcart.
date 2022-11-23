@@ -1,6 +1,6 @@
 <?php
     session_start();
-    require_once('dataset.php');
+    require_once('dataset.php');  // this is the file where our array is declared    
 ?>
 
 <!DOCTYPE html>
